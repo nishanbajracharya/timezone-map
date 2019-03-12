@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/timezone-map/precache-manifest.7bfec4d7fb12bd1a56b6cd4441e4f23a.js"
+  "/timezone-map/precache-manifest.d1029cd66b0375f2563c4e839a444c30.js"
 );
 
 workbox.clientsClaim();
