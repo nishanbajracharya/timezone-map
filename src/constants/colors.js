@@ -1,5 +1,5 @@
-export const BASE_COLOR = '#eeeeee';
-export const BORDER_COLOR = '#bbbbbb';
+export const BASE_COLOR = '#bcdbed';
+export const BORDER_COLOR = '#87bdde';
 
 export const HOVER_COLOR = '#49c';
 export const HOVER_BORDER_COLOR = '#47a';
