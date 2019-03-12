@@ -6,7 +6,8 @@
     "react": "^16.8.4",
     "react-dom": "^16.8.4",
     "react-scripts": "2.1.8",
-    "react-simple-maps": "^0.12.1"
+    "react-simple-maps": "^0.12.1",
+    "spacetime": "^5.4.0"
   },
   "homepage": "http://nishanbajracharya.github.io/timezone-map",
   "scripts": {

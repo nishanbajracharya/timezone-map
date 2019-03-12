@@ -8864,6 +8864,11 @@ space-separated-tokens@^1.0.0:
   dependencies:
     trim "0.0.1"
 
+spacetime@^5.4.0:
+  version "5.4.0"
+  resolved "https://registry.yarnpkg.com/spacetime/-/spacetime-5.4.0.tgz#6f0a4e24176d5c0825df03bccf76dfa0a417452a"
+  integrity sha512-0E76fB3c+rWi7y5NOWtBvUU+1nYMo2bleU61uukgi2e0HwuF5vnuhQpM0W57/xd9jkg2iz26HW0QHjPmtjf4pw==
+
 spdx-correct@^3.0.0:
   version "3.1.0"
   resolved "https://registry.yarnpkg.com/spdx-correct/-/spdx-correct-3.1.0.tgz#fb83e504445268f154b074e218c87c003cd31df4"
